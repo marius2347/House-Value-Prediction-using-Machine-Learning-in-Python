@@ -19,9 +19,6 @@
 <li>Replaces NA values with median</li>
 <li>One hot encoding procedure</li>
 <li>Creating a transformer class</li>
-<li> </li>
-<li> </li>
-
 
 
 <h2>Acknowledgments</h2>
