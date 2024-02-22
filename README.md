@@ -1,4 +1,4 @@
-<h1> Housing Dataset - Linear RegressionPython Project</h1>
+<h1> Housing Dataset - Linear Regression Python Project</h1>
 <br>
 <h2>Features</h2>
 <li>Import CSV file with code</li>
