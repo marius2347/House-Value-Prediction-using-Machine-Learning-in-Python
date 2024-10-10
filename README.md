@@ -1,4 +1,4 @@
-<h1> Housing Dataset - Linear Regression ML Python Project</h1>
+<h1>House Value Prediction using Machine Learning in Python</h1>
 <br>
 <h2>Features</h2>
 <li>Import CSV file with code</li>
